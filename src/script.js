@@ -40,21 +40,17 @@ TorusoKnot.position.set(0,0,0)
 const pointlight1 = new THREE.PointLight( 0xff0000, 1, 500 );
 pointlight1.position.set( 0, 100, 20);
 scene.add( pointlight1 );
-const pointLightHelper1 = new THREE.PointLightHelper( pointlight1, 5 );
-scene.add( pointLightHelper1 );
 
 const pointlight2 = new THREE.PointLight( 0x0000ff, 1, 500 );
 pointlight2.position.set( 100, 20, 70);
 scene.add( pointlight2 );
-const pointLightHelper2 = new THREE.PointLightHelper( pointlight2, 5 );
-scene.add( pointLightHelper2 );
+
 
 
 const pointlight3 = new THREE.PointLight( 0x00ff00, 1, 500 );
 pointlight3.position.set( -100, 20, 70);
 scene.add( pointlight3 );
-const pointLightHelper3 = new THREE.PointLightHelper( pointlight3, 5 );
-scene.add( pointLightHelper3 );
+
 
 
 
