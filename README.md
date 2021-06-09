@@ -1,7 +1,7 @@
 # WebsiteFromThree.js
 This repo Contains Source code of a website Build with HTML , CSS , JS(Three.js)
 # Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+Courtesy of Bruno Simon of https://threejs-journey.xyz/<br>
 Starter Base Repo https://github.com/designcourse/threejs-webpack-starter 
 
 ## Setup
