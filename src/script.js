@@ -120,7 +120,7 @@ const clock = new THREE.Clock()
 var time = 0;
 function ev(event){
     
-    time += 0.03;
+    time += 0.05;
 }
 
 document.addEventListener('scroll' , ev);
